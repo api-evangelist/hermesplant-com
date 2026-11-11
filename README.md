@@ -1,4 +1,4 @@
-# hermesplant-com
+# Hermes Plant
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,151 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hermesplant-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hermesplant.com/
+Hermes Plant provides deterministic pre‑execution safety for autonomous AI agents, offering a quick gate and full safety workflow for actions like shell commands, Git operations, SQL queries, deployments, and x402/MCP transactions. It issues signed receipts, validates actions, and supplies finance utility APIs such as DCF, IRR, option pricing, and compliance screening, serving developers, fintech operators, and crypto treasury teams worldwide.
+
+**Areas:** Company · AI · Agent Safety · Finance · Compliance · Automation
+
+## Hermes Plant on APIs.io
+
+Everything profiled for Hermes Plant is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hermesplant-com/](https://apis.io/providers/hermesplant-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [Hermes Plant Action Safety API](https://apis.io/apis/hermesplant-com/hermesplant-com-action-safety-api/) — The action-safety API from Hermes Plant — 1 operation(s) for action-safety.
+- [Hermes Plant Agent Commerce Assurance API](https://apis.io/apis/hermesplant-com/hermesplant-com-agent-commerce-assurance-api/) — Policy-bound authorization, signed execution receipts, and organization history for exact x402 and MCP actions.
+- [Hermes Plant Agent Safety API](https://apis.io/apis/hermesplant-com/hermesplant-com-agent-safety-api/) — The agent-safety API from Hermes Plant — 4 operation(s) for agent-safety.
+- [Hermes Plant Agent Spend API](https://apis.io/apis/hermesplant-com/hermesplant-com-agent-spend-api/) — The agent-spend API from Hermes Plant — 1 operation(s) for agent-spend.
+- [Hermes Plant Assurance API](https://apis.io/apis/hermesplant-com/hermesplant-com-assurance-api/) — The assurance API from Hermes Plant — 2 operation(s) for assurance.
+- [Hermes Plant Billing Portal API](https://apis.io/apis/hermesplant-com/hermesplant-com-billing-portal-api/) — The Billing Portal API from Hermes Plant — 1 operation(s) for billing portal.
+- [Hermes Plant Catalog API](https://apis.io/apis/hermesplant-com/hermesplant-com-catalog-api/) — The Catalog API from Hermes Plant — 1 operation(s) for catalog.
+- [Hermes Plant Checkout API](https://apis.io/apis/hermesplant-com/hermesplant-com-checkout-api/) — The Checkout API from Hermes Plant — 1 operation(s) for checkout.
+- [Hermes Plant Content API](https://apis.io/apis/hermesplant-com/hermesplant-com-content-api/) — The Content API from Hermes Plant — 1 operation(s) for content.
+- [Hermes Plant Email API](https://apis.io/apis/hermesplant-com/hermesplant-com-email-api/) — The email API from Hermes Plant — 1 operation(s) for email.
+- [Hermes Plant Finance API](https://apis.io/apis/hermesplant-com/hermesplant-com-finance-api/) — The finance API from Hermes Plant — 5 operation(s) for finance.
+- [Hermes Plant Health API](https://apis.io/apis/hermesplant-com/hermesplant-com-health-api/) — The Health API from Hermes Plant — 1 operation(s) for health.
+- [Hermes Plant Investment Analysis API](https://apis.io/apis/hermesplant-com/hermesplant-com-investment-analysis-api/) — The investment-analysis API from Hermes Plant — 1 operation(s) for investment-analysis.
+- [Hermes Plant MCP API](https://apis.io/apis/hermesplant-com/hermesplant-com-mcp-api/) — The mcp API from Hermes Plant — 1 operation(s) for mcp.
+- [Hermes Plant Portfolio Risk Analysis API](https://apis.io/apis/hermesplant-com/hermesplant-com-portfolio-risk-analysis-api/) — The portfolio-risk-analysis API from Hermes Plant — 1 operation(s) for portfolio-risk-analysis.
+- [Hermes Plant Purchase API](https://apis.io/apis/hermesplant-com/hermesplant-com-purchase-api/) — The Purchase API from Hermes Plant — 1 operation(s) for purchase.
+- [Hermes Plant Wallet Risk Scoring API](https://apis.io/apis/hermesplant-com/hermesplant-com-wallet-risk-scoring-api/) — The wallet-risk-scoring API from Hermes Plant — 1 operation(s) for wallet-risk-scoring.
+- [Hermes Plant X402 API](https://apis.io/apis/hermesplant-com/hermesplant-com-x402-api/) — The x402 API from Hermes Plant — 3 operation(s) for x402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Hermes Plant Agentic Access](https://apis.io/agentic-access/hermesplant-com/hermesplant-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [ContentPage](https://apis.io/schemas/hermesplant-com/hermesplant-com-content-page/)
+- [LegalUrls](https://apis.io/schemas/hermesplant-com/hermesplant-com-legal-urls/)
+- [ProductSummary](https://apis.io/schemas/hermesplant-com/hermesplant-com-product-summary/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hermesplant Com Context](https://apis.io/jsonld/hermesplant-com/hermesplant-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Hermes Plant API Rules](https://apis.io/rules/hermesplant-com/hermesplant-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hermes Plant Authentication](https://apis.io/security/hermesplant-com/hermesplant-com-authentication/)
+- [Hermes Plant Domain Security](https://apis.io/security/hermesplant-com/hermesplant-com-domain-security/)
+- [Hermes Plant Vulnerability Disclosure](https://apis.io/security/hermesplant-com/hermesplant-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Hermes Plant Scopes](https://apis.io/scopes/hermesplant-com/hermesplant-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hermes Plant Plans Pricing](https://apis.io/plans/hermesplant-com/hermesplant-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hermesplant.com/)
+- [Documentation](https://hermesplant.com/guides)
+- [API reference](https://hermesplant.com/docs/api)
+- [Pricing](https://hermesplant.com/pricing)
+- [Changelog](https://hermesplant.com/changelog)
+- [Blog](https://hermesplant.com/blog)
+- [Security](https://hermesplant.com/security)
+- [Terms of service](https://hermesplant.com/legal/terms)
+- [Privacy policy](https://hermesplant.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 57.4** — strong · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 60.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 60.0 |
+
+**Agent readiness 61.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hermesplant-com/](https://apis.io/providers/hermesplant-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hermes Plant: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hermesplant-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
